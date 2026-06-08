@@ -2,7 +2,7 @@
 
 **Old Internet never died.**
 
-I build and port esktop tools, retro chat experiments, internet-radio apps, and small games for Windows, Linux, OSX.
+I build and port desktop apps, retro chat experiments, internet-radio apps, and small games for Windows, Linux, OSX.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
