@@ -1,0 +1,6 @@
+# Only the public profile and its approved branding asset belong in Git.
+*
+!/.gitignore
+!/README.md
+!/assets/
+!/assets/bastardsysop.png

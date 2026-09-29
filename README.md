@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/bastardsysop.png" alt="BastardSysop" width="1000">
+</p>
+
 # Hey, I'm IronWolve 🤠
 
 **Old Internet never died.**
@@ -19,6 +23,12 @@ I build and port desktop apps, retro chat experiments, internet-radio apps, and 
 [StreamTuner-ng](https://github.com/IronWolve/StreamTuner-ng) - Reimagined internet-radio browser for modern Python/Qt, inspired by the classic StreamTuner idea.
 
 [Simple Tower Defense 2D](https://github.com/IronWolve/SimpleTowerDefense) - Endless maze-building tower defense game made in Godot, with towers, traps, bosses, saves, and generated maps.
+
+[BS Notepad](https://github.com/IronWolve/BS-Notepad) - A desktop workspace for notes, Markdown, source files, and images.
+
+[BS Podcasts](https://github.com/IronWolve/BS-Podcasts) - A desktop podcast player with subscriptions, downloads, listening queues, and playback controls.
+
+[yue2-kit](https://github.com/IronWolve/yue2-kit) - A YuE2 install kit with a studio interface, LoRAs, VAEs, and voice/style sliders.
 
 ---
 
