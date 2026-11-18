@@ -22,8 +22,6 @@ I build and port desktop apps, retro chat experiments, internet-radio apps, and 
 
 [StreamTuner-ng](https://github.com/IronWolve/StreamTuner-ng) - Reimagined internet-radio browser for modern Python/Qt, inspired by the classic StreamTuner idea.
 
-[Simple Tower Defense 2D](https://github.com/IronWolve/SimpleTowerDefense2D) - Endless maze-building tower defense game made in Godot, with towers, traps, bosses, saves, and generated maps.
-
 [BS Notepad](https://github.com/IronWolve/BS-Notepad) - A desktop workspace for notes, Markdown, source files, and images.
 
 [BS Podcasts](https://github.com/IronWolve/BS-Podcasts) - A desktop podcast player with subscriptions, downloads, listening queues, and playback controls.
@@ -43,6 +41,8 @@ I build and port desktop apps, retro chat experiments, internet-radio apps, and 
 [LinCity-NG Godot Port](https://github.com/IronWolve/lincity-ng-godot-port) - Fan-made Godot port of the classic LinCity-NG city/economy sim.
 
 [Simple Solitaire](https://github.com/IronWolve/Simple_Solitaire) - Clean Godot solitaire with Klondike and Spider.
+
+[Simple Tower Defense 2D](https://github.com/IronWolve/SimpleTowerDefense2D) - Endless maze-building tower defense game made in Godot, with towers, traps, bosses, saves, and generated maps.
 
 [VendorGuard](https://github.com/IronWolve/VendorGuard) - World of Warcraft: Forever addon that highlights vendor items you can't use and compares weapon DPS before you buy.
 
