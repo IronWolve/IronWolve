@@ -22,13 +22,19 @@ I build and port desktop apps, retro chat experiments, internet-radio apps, and 
 
 [StreamTuner-ng](https://github.com/IronWolve/StreamTuner-ng) - Reimagined internet-radio browser for modern Python/Qt, inspired by the classic StreamTuner idea.
 
-[Simple Tower Defense 2D](https://github.com/IronWolve/SimpleTowerDefense) - Endless maze-building tower defense game made in Godot, with towers, traps, bosses, saves, and generated maps.
+[Simple Tower Defense 2D](https://github.com/IronWolve/SimpleTowerDefense2D) - Endless maze-building tower defense game made in Godot, with towers, traps, bosses, saves, and generated maps.
 
 [BS Notepad](https://github.com/IronWolve/BS-Notepad) - A desktop workspace for notes, Markdown, source files, and images.
 
 [BS Podcasts](https://github.com/IronWolve/BS-Podcasts) - A desktop podcast player with subscriptions, downloads, listening queues, and playback controls.
 
+[BS Player](https://github.com/IronWolve/BS-Player) - A fast Rust music, audiobook, and internet-radio player that remembers your listening position, bookmarks, and playlists.
+
+[BS Mail](https://github.com/IronWolve/BS-Mail) - Mail for power users: a fast, keyboard-first IMAP/SMTP mail client that runs in the terminal or its own window.
+
 [yue2-kit](https://github.com/IronWolve/yue2-kit) - A YuE2 install kit with a studio interface, LoRAs, VAEs, and voice/style sliders.
+
+[Patriot Reader](https://github.com/IronWolve/Patriot-Reader) - Android reader for patriots.win with readable flair, embedded video, and media downloads.
 
 ---
 
@@ -37,6 +43,8 @@ I build and port desktop apps, retro chat experiments, internet-radio apps, and 
 [LinCity-NG Godot Port](https://github.com/IronWolve/lincity-ng-godot-port) - Fan-made Godot port of the classic LinCity-NG city/economy sim.
 
 [Simple Solitaire](https://github.com/IronWolve/Simple_Solitaire) - Clean Godot solitaire with Klondike and Spider.
+
+[VendorGuard](https://github.com/IronWolve/VendorGuard) - World of Warcraft: Forever addon that highlights vendor items you can't use and compares weapon DPS before you buy.
 
 [wavmaster](https://github.com/IronWolve/wavmaster) - Audio mastering tool with analysis, A/B comparison, and reference mastering workflow.
 
