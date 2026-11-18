@@ -16,7 +16,7 @@ I build and port desktop apps, retro chat experiments, internet-radio apps, and 
 
 ---
 
-## Active Projects
+## Repositories
 
 [MaxChat](https://github.com/IronWolve/MaxChat) - Modern IRC client with deep customization and optional Comic Chat-compatible comic mode.
 
