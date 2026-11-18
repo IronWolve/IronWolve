@@ -34,6 +34,8 @@ I build and port desktop apps, retro chat experiments, internet-radio apps, and 
 
 [Patriot Reader](https://github.com/IronWolve/Patriot-Reader) - Android reader for patriots.win with readable flair, embedded video, and media downloads.
 
+[wavmaster](https://github.com/IronWolve/wavmaster) - Audio mastering tool with analysis, A/B comparison, and reference mastering workflow.
+
 ---
 
 ## Games & Ports
@@ -45,8 +47,6 @@ I build and port desktop apps, retro chat experiments, internet-radio apps, and 
 [Simple Tower Defense 2D](https://github.com/IronWolve/SimpleTowerDefense2D) - Endless maze-building tower defense game made in Godot, with towers, traps, bosses, saves, and generated maps.
 
 [VendorGuard](https://github.com/IronWolve/VendorGuard) - World of Warcraft: Forever addon that highlights vendor items you can't use and compares weapon DPS before you buy.
-
-[wavmaster](https://github.com/IronWolve/wavmaster) - Audio mastering tool with analysis, A/B comparison, and reference mastering workflow.
 
 ---
 
