@@ -18,23 +18,23 @@ I build and port desktop apps, retro chat experiments, internet-radio apps, and 
 
 ## Repositories
 
-[MaxChat](https://github.com/IronWolve/MaxChat) - Modern IRC client with deep customization and optional Comic Chat-compatible comic mode.
-
-[StreamTuner-ng](https://github.com/IronWolve/StreamTuner-ng) - Reimagined internet-radio browser for modern Python/Qt, inspired by the classic StreamTuner idea.
+[BS Mail](https://github.com/IronWolve/BS-Mail) - Mail for power users: a fast, keyboard-first IMAP/SMTP mail client that runs in the terminal or its own window.
 
 [BS Notepad](https://github.com/IronWolve/BS-Notepad) - A desktop workspace for notes, Markdown, source files, and images.
 
-[BS Podcasts](https://github.com/IronWolve/BS-Podcasts) - A desktop podcast player with subscriptions, downloads, listening queues, and playback controls.
-
 [BS Player](https://github.com/IronWolve/BS-Player) - A fast Rust music, audiobook, and internet-radio player that remembers your listening position, bookmarks, and playlists.
 
-[BS Mail](https://github.com/IronWolve/BS-Mail) - Mail for power users: a fast, keyboard-first IMAP/SMTP mail client that runs in the terminal or its own window.
+[BS Podcasts](https://github.com/IronWolve/BS-Podcasts) - A desktop podcast player with subscriptions, downloads, listening queues, and playback controls.
 
-[yue2-kit](https://github.com/IronWolve/yue2-kit) - A YuE2 install kit with a studio interface, LoRAs, VAEs, and voice/style sliders.
+[MaxChat](https://github.com/IronWolve/MaxChat) - Modern IRC client with deep customization and optional Comic Chat-compatible comic mode.
 
 [Patriot Reader](https://github.com/IronWolve/Patriot-Reader) - Android reader for patriots.win with readable flair, embedded video, and media downloads.
 
+[StreamTuner-ng](https://github.com/IronWolve/StreamTuner-ng) - Reimagined internet-radio browser for modern Python/Qt, inspired by the classic StreamTuner idea.
+
 [wavmaster](https://github.com/IronWolve/wavmaster) - Audio mastering tool with analysis, A/B comparison, and reference mastering workflow.
+
+[yue2-kit](https://github.com/IronWolve/yue2-kit) - A YuE2 install kit with a studio interface, LoRAs, VAEs, and voice/style sliders.
 
 ---
 
